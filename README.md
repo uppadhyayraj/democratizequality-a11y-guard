@@ -78,10 +78,10 @@ Before you begin, ensure you have:
 
 ```bash
 # Install globally via npm
-npm install -g a11y-guard
+npm install -g @democratize-quality/a11y-guard
 
 # Or install in your project
-npm install --save-dev a11y-guard
+npm install --save-dev @democratize-quality/a11y-guard
 ```
 
 ### Initialize in Your Project
