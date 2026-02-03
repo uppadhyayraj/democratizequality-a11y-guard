@@ -18,9 +18,15 @@ A step-by-step guide demonstrating all CLI features of A11y Guard, the AI-powere
 11. [Learn from Commits](#11-learn-from-commits)
 
 ---
+---
+
+**Prerequisite - Install the Copilot CLI:**
+
+- Follow the [Copilot CLI installation guide](https://docs.github.com/en/copilot/how-tos/set-up/install-copilot-cli) to install the CLI, or ensure `copilot` is available in your PATH
+
+---
 
 ## 1. Installation
-
 Install A11y Guard globally via npm:
 
 ```bash
