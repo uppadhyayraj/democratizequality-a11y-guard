@@ -49,6 +49,22 @@ A11yGuard **shifts accessibility left** - all the way to your development workfl
 
 ---
 
+**💡 An Experiment in AI-Powered Accessibility**
+
+**A11y Guard represents an experiment**: Can we extend GitHub Copilot SDK to create specialized AI agents that make accessibility expertise more accessible to every developer?
+
+This tool demonstrates one possible future—where AI doesn't just help us write code faster, but helps us write better, more inclusive code by bringing domain expertise directly into our workflows.
+That said, important caveats apply:
+
+> 🤖 **AI is a tool, not an oracle**. The suggestions A11y Guard provides are AI-generated and can be wrong. Always review carefully, test thoroughly, and validate against WCAG guidelines and real-world usage with assistive technologies.
+
+> 🛡️ **No replacement for human judgment**. This tool complements—but doesn't replace—manual testing, user research, and established accessibility tools. Think of it as an always-available accessibility consultant, not the final authority.
+
+> ⚖️ **You are responsible**. This software is provided "as-is" without warranties. Users are responsible for their code's compliance with accessibility standards and regulations. The author accepts no liability for issues arising from the use of this tool.
+
+The goal is not perfection—it's progress. By making accessibility testing faster and more integrated into daily workflows, we can all build a more inclusive web, one commit at a time.
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites
